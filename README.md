@@ -1,2 +1,2 @@
 # M-Pesa-Transaction-Analysis-and-Classification
-Analyzing Mpesa Transactions
+Analyzing Mpesa Transactions.
